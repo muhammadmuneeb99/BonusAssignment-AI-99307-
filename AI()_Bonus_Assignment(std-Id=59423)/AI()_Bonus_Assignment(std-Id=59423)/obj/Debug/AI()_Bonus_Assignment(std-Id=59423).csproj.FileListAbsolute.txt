@@ -1,0 +1,10 @@
+c:\users\munee\source\repos\AI()_Bonus_Assignment(std-Id=59423)\AI()_Bonus_Assignment(std-Id=59423)\bin\Debug\AI()_Bonus_Assignment(std-Id=59423).exe.config
+c:\users\munee\source\repos\AI()_Bonus_Assignment(std-Id=59423)\AI()_Bonus_Assignment(std-Id=59423)\bin\Debug\AI()_Bonus_Assignment(std-Id=59423).exe
+c:\users\munee\source\repos\AI()_Bonus_Assignment(std-Id=59423)\AI()_Bonus_Assignment(std-Id=59423)\bin\Debug\AI()_Bonus_Assignment(std-Id=59423).pdb
+c:\users\munee\source\repos\AI()_Bonus_Assignment(std-Id=59423)\AI()_Bonus_Assignment(std-Id=59423)\obj\Debug\AI()_Bonus_Assignment(std-Id=59423).csprojResolveAssemblyReference.cache
+c:\users\munee\source\repos\AI()_Bonus_Assignment(std-Id=59423)\AI()_Bonus_Assignment(std-Id=59423)\obj\Debug\AI___Bonus_Assignment_std_Id_59423_.Form1.resources
+c:\users\munee\source\repos\AI()_Bonus_Assignment(std-Id=59423)\AI()_Bonus_Assignment(std-Id=59423)\obj\Debug\AI___Bonus_Assignment_std_Id_59423_.Properties.Resources.resources
+c:\users\munee\source\repos\AI()_Bonus_Assignment(std-Id=59423)\AI()_Bonus_Assignment(std-Id=59423)\obj\Debug\AI()_Bonus_Assignment(std-Id=59423).csproj.GenerateResource.Cache
+c:\users\munee\source\repos\AI()_Bonus_Assignment(std-Id=59423)\AI()_Bonus_Assignment(std-Id=59423)\obj\Debug\AI()_Bonus_Assignment(std-Id=59423).csproj.CoreCompileInputs.cache
+c:\users\munee\source\repos\AI()_Bonus_Assignment(std-Id=59423)\AI()_Bonus_Assignment(std-Id=59423)\obj\Debug\AI()_Bonus_Assignment(std-Id=59423).exe
+c:\users\munee\source\repos\AI()_Bonus_Assignment(std-Id=59423)\AI()_Bonus_Assignment(std-Id=59423)\obj\Debug\AI()_Bonus_Assignment(std-Id=59423).pdb
